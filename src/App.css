@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.countStyle {
+  color: purple;
+  font-size: 2em;
+}
